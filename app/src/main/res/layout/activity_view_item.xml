@@ -18,7 +18,7 @@
         android:layout_alignBottom="@+id/id"
         android:layout_alignParentTop="true"
         android:visibility="visible"
-        android:descendantFocusability="blocksDescendants"/>
+        />
 
     <CheckBox
         android:layout_width="wrap_content"
@@ -27,6 +27,7 @@
         android:layout_alignBottom="@+id/item"
         android:layout_alignRight="@+id/item"
         android:layout_alignEnd="@+id/item"
-        android:onClick="onCheckBoxClick"/>
+        android:onClick="checkBoxClick"
+        />
 
 </RelativeLayout>
