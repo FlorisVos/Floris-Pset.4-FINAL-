@@ -23,7 +23,7 @@
         android:id="@+id/ListView"
         android:layout_below="@+id/ToDoListTextView"
         android:layout_above="@+id/ETAddItem"
-        ></ListView>
+        />
 
     <TextView
         android:id="@+id/empty"
