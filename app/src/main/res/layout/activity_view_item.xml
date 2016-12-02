@@ -27,7 +27,6 @@
         android:layout_alignBottom="@+id/item"
         android:layout_alignRight="@+id/item"
         android:layout_alignEnd="@+id/item"
-        android:onClick="checkBoxClick"
         />
 
 </RelativeLayout>
